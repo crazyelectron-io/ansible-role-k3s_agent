@@ -1,0 +1,5 @@
+# Include the 'k3s-agent` role from GitHub
+- src: git@github.com:crazyelectron-io/ansible-role-k3s_agent.git
+  scm: git
+  version: master
+  name: k3s-agent
